@@ -1,0 +1,31 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#area {
+    width: 83%;
+    float: right;
+    margin-bottom: 2%;
+}
+
+#descripcion {
+    width: 83%;
+    float: right;
+}
+
+.formcontent {
+    width: 90%;
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.chkEmpleados {
+    width: 83%;
+    float: right;
+}
