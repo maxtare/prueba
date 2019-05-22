@@ -2,7 +2,7 @@
 $servidor="localhost";
 $usuario="root";
 $clave="";
-$bd="empelados";
+$bd="empleados";
 
 	
 $mysqli =new mysqli("$servidor","$usuario","$clave","$bd");
